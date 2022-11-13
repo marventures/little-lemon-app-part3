@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "sectionlist---starter-code",
-    "slug": "snack-79e37ef9-d516-4ea8-b08c-9e5697497f3e",
+    "name": "Menu Items",
+    "slug": "menu-items",
+    "owner": "marvedventures",
+    "description": "React Native Core Components (SectionList, View, Text) || Styling using StyleSheet API",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
