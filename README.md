@@ -1,6 +1,6 @@
 # React Native App
 
-This is a solution to the React Native Exercise by Meta.
+This is a React Native App using SectionList Component and StyleSheet API.
 
 ## Table of contents
 
