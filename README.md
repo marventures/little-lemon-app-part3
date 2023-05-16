@@ -22,7 +22,7 @@ This is a React Native App using SectionList Component and StyleSheet API.
 
 ### Links
 
-- Solution URL: [Code](https://github.com/marvedventures/little-lemon-app-part3)
+- Solution URL: [Code](https://github.com/marventures/little-lemon-app-part3)
 
 ## My process
 
@@ -107,5 +107,5 @@ export default MenuItems;
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures)
