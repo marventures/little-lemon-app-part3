@@ -1,4 +1,4 @@
-# React Native (Meta) Exercise
+# React Native App
 
 This is a solution to the React Native Exercise by Meta.
 
