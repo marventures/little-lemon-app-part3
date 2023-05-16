@@ -2,7 +2,7 @@
   "expo": {
     "name": "Menu Items",
     "slug": "menu-items",
-    "owner": "marvedventures",
+    "owner": "marventures",
     "description": "React Native Core Components (SectionList, View, Text) || Styling using StyleSheet API",
     "version": "1.0.0",
     "orientation": "portrait",
